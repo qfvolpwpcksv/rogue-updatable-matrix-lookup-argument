@@ -1,0 +1,14 @@
+10 5 6
+6
+0 2 4 6 8 10
+6
+0 2 4 6 8 10
+0 0 0 0
+
+
+line 1: log(n=#rows) log(m=#columns) log(nchunks)
+line 2: #lookup experiments
+line 3: log(k=#lookuped rows) ...
+line 4: #update experiments
+line 5: log(k=#updated rows) ...
+line 6: set_pp_setup_dummy set_table_preprocess_dummy 0 0

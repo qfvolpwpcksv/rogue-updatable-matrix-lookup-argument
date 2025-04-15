@@ -1,0 +1,31 @@
+max_row = 1024
+max_col = 32
+n_chunks = 64
+setup of size (1024/64x32) complete in [0.187672] seconds
+prover of size (1024/64x32) initialized in [1.50915] seconds
+row proof generation complete in [0.0442875] seconds
+row proof verification complete in [0.0054188] seconds
+generate multiple row proof of size 1 complete in [0.0560122] seconds
+multirow proof verification complete in [0.0133262] seconds
+generate multiple row proof of size 4 complete in [0.0935492] seconds
+multirow proof verification complete in [0.0240249] seconds
+generate multiple row proof of size 16 complete in [0.159567] seconds
+multirow proof verification complete in [0.029526] seconds
+generate multiple row proof of size 64 complete in [0.440282] seconds
+multirow proof verification complete in [0.0335886] seconds
+generate multiple row proof of size 256 complete in [1.40603] seconds
+multirow proof verification complete in [0.0379665] seconds
+generate multiple row proof of size 1024 complete in [5.54681] seconds
+multirow proof verification complete in [0.0529481] seconds
+update proof of size 1 newnew generated in [0.129423] seconds
+update proof of size 1 newnew verification complete in [0.0317916] seconds
+update proof of size 4 newnew generated in [0.200335] seconds
+update proof of size 4 newnew verification complete in [0.0391423] seconds
+update proof of size 16 newnew generated in [0.378098] seconds
+update proof of size 16 newnew verification complete in [0.0506061] seconds
+update proof of size 64 newnew generated in [0.853157] seconds
+update proof of size 64 newnew verification complete in [0.0498997] seconds
+update proof of size 256 newnew generated in [2.31157] seconds
+update proof of size 256 newnew verification complete in [0.0471068] seconds
+update proof of size 1024 newnew generated in [8.01038] seconds
+update proof of size 1024 newnew verification complete in [0.0524252] seconds
