@@ -1,0 +1,44 @@
+tests/input_files/
+tests/output_files/
+
+# Prerequisites
+*.d
+*.vs_code/
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+build/*
+3rd/*
+input.txt
+*.DS_Store
+*.swp
+
+*.dylib
